@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 09:23 IR
+- 📥 [استاتیک مریام زبان اصلی ویرایش 9.pdf](https://github.com/mohammadahmadi4736-coder/sandbox/raw/main/dl/%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%DB%8C%DA%A9%20%D9%85%D8%B1%DB%8C%D8%A7%D9%85%20%D8%B2%D8%A8%D8%A7%D9%86%20%D8%A7%D8%B5%D9%84%DB%8C%20%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4%209.pdf) `26.2MB`
+
+---
+
+
 ### 📅 2026-04-28 15:57 IR
 - 📱 [PdaNet5232.apk](https://github.com/mohammadahmadi4736-coder/sandbox/raw/main/dl/PdaNet5232.apk) `283KB`
 
