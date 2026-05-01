@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 11:12 IR
+- 🗜️ [استاتیک و مقاومت مصالح بیرجانسون.zip](https://github.com/mohammadahmadi4736-coder/sandbox/raw/main/dl/%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%DB%8C%DA%A9%20%D9%88%20%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA%20%D9%85%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A8%DB%8C%D8%B1%D8%AC%D8%A7%D9%86%D8%B3%D9%88%D9%86.zip) `20.4MB`
+
+---
+
+
 ### 📅 2026-04-30 19:56 IR
 - 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/mohammadahmadi4736-coder/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
 
