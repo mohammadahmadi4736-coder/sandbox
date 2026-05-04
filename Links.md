@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 13:03 IR
+- 📱 [Exclave-0.17.38-arm64-v8a.apk](https://github.com/mohammadahmadi4736-coder/sandbox/raw/main/dl/Exclave-0.17.38-arm64-v8a.apk) `22.2MB`
+
+---
+
+
 ### 📅 2026-05-01 11:22 IR
 - 📥 [استاتیک جانسون.pdf](https://github.com/mohammadahmadi4736-coder/sandbox/raw/main/dl/%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%DB%8C%DA%A9%20%D8%AC%D8%A7%D9%86%D8%B3%D9%88%D9%86.pdf) `45.4MB`
 
